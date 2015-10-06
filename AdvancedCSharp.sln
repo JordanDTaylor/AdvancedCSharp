@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{1019E251-F463-42AB-8B1E-1B6CA516A300}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicBinding", "DynamicBinding\DynamicBinding.csproj", "{11BEBEEE-9884-47A4-9E4F-D4474DBC4757}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1019E251-F463-42AB-8B1E-1B6CA516A300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1019E251-F463-42AB-8B1E-1B6CA516A300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1019E251-F463-42AB-8B1E-1B6CA516A300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BEBEEE-9884-47A4-9E4F-D4474DBC4757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BEBEEE-9884-47A4-9E4F-D4474DBC4757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BEBEEE-9884-47A4-9E4F-D4474DBC4757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BEBEEE-9884-47A4-9E4F-D4474DBC4757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
