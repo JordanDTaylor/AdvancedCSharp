@@ -1,0 +1,6 @@
+c:\Users\jtaylor\Documents\Visual Studio 2015\Projects\AdvancedCSharp\NullableTypes\bin\Debug\NullableTypes.exe.config
+c:\Users\jtaylor\Documents\Visual Studio 2015\Projects\AdvancedCSharp\NullableTypes\bin\Debug\NullableTypes.exe
+c:\Users\jtaylor\Documents\Visual Studio 2015\Projects\AdvancedCSharp\NullableTypes\bin\Debug\NullableTypes.pdb
+c:\Users\jtaylor\Documents\Visual Studio 2015\Projects\AdvancedCSharp\NullableTypes\obj\Debug\NullableTypes.csprojResolveAssemblyReference.cache
+c:\Users\jtaylor\Documents\Visual Studio 2015\Projects\AdvancedCSharp\NullableTypes\obj\Debug\NullableTypes.exe
+c:\Users\jtaylor\Documents\Visual Studio 2015\Projects\AdvancedCSharp\NullableTypes\obj\Debug\NullableTypes.pdb
