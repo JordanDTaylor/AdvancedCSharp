@@ -1,0 +1,5 @@
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

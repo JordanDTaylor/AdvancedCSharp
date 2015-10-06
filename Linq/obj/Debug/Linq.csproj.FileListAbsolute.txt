@@ -1,0 +1,5 @@
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\Linq\bin\Debug\Linq.exe.config
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\Linq\bin\Debug\Linq.exe
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\Linq\bin\Debug\Linq.pdb
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\Linq\obj\Debug\Linq.exe
+c:\users\jtaylor\documents\visual studio 2015\Projects\AdvancedCSharp\Linq\obj\Debug\Linq.pdb
